@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">设置-小部件</string>
+    <string name="item_wifi">Wifi</string>
+    <string name="item_bluetooth">蓝牙</string>
+    <string name="item_sound">声音</string>
+    <string name="item_display">显示</string>
+    <string name="item_application">应用</string>
+    <string name="item_date">日期和时间</string>
+</resources>

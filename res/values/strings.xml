@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SettingsWidget</string>
+    <string name="item_wifi">Wifi</string>
+    <string name="item_bluetooth">Bluetooth</string>
+    <string name="item_sound">Sound</string>
+    <string name="item_display">Display</string>
+    <string name="item_application">Applications</string>
+    <string name="item_date">Date</string>
+</resources>

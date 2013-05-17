@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_name">
+        <item>@string/item_wifi</item>
+        <item>@string/item_bluetooth</item>
+        <item>@string/item_sound</item>
+        <item>@string/item_display</item>
+        <item>@string/item_application</item>
+        <item>@string/item_date</item>
+    </string-array>
+    <integer-array name="settings_icon">
+        <item>@drawable/ic_settings_wireless</item>
+        <item>@drawable/ic_settings_bluetooth</item>
+        <item>@drawable/ic_settings_sound</item>
+        <item>@drawable/ic_settings_display</item>
+        <item>@drawable/ic_settings_applications</item>
+        <item>@drawable/ic_settings_date_time</item>
+    </integer-array>
+    <string-array name="settings_actions">
+        <item>android.settings.WIFI_SETTINGS</item>
+        <item>android.settings.BLUETOOTH_SETTINGS</item>
+        <item>android.settings.SOUND_SETTINGS</item>
+        <item>android.settings.DISPLAY_SETTINGS</item>
+        <item>android.settings.APPLICATION_SETTINGS</item>
+        <item>android.settings.DATE_SETTINGS</item>
+    </string-array>
+</resources>
